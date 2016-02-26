@@ -1,4 +1,1 @@
-# IFE
-
-## JavaScript基础
-### 百度IFE-JavaScript-task
+### 百度IFE-Demon
