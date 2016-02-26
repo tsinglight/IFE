@@ -6,6 +6,11 @@
   clear: both
 }
 
+.container{
+    overflow: hidden;
+    max-width: 1900px;
+    margin: 0 auto;
+}
 h1 {
   font-family: Arial;
   color: white;
@@ -38,6 +43,7 @@ a {
 
 body {
   background-color: #eee;
+  width: 1920px;
 }
 
 #head {
