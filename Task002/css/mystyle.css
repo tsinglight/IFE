@@ -1,0 +1,129 @@
+*{
+	font-family:"Microsoft Yahei";
+	margin:0;	
+	font-size:14px;
+}
+.container{
+	overflow: hidden;
+    max-width: 1900px;
+    margin: 0 auto;
+	width: 1200px;
+}
+h1{
+	font-size:21px;
+}
+h2{
+	font-size:15px;
+	color:#777;
+}
+h3{
+	font-size:12px;
+	color:#777;
+}
+h4{
+	
+	font-size: 16px;
+	padding: 10px 10px;
+	border-left: 3px solid #ccc;
+}
+.paragraph{
+	
+	margin:20px;
+	background-color:white;
+	border-style: outset; border-width: 1px;
+	padding:30px;
+}
+body{
+	background-color:#f5f5f5;
+}
+nav{
+	background-color:black;
+	
+}
+.nav > img{
+	vertical-align:middle;
+}
+.nav > ul{
+	position:absolute;
+	top:19px;
+	right:5px;
+}
+#head-nav > li{
+	display:inline;
+}
+
+#head-nav{
+	float:right;
+}
+
+#head-nav li  > a{
+	color:#FFFFFF;
+	text-align:center;
+	padding:6px;
+	text-decoration:none;
+}
+#head-nav li  > a:hover{
+	color:#ccc;
+
+}
+
+.PictureBlock{
+	border-style: solid;
+	border-width:1px;
+	margin:50px;
+	padding:5px;
+	width:300px;
+	text-align:center;
+}
+ul{
+	list-style-type:none;
+}
+.rank > li {
+	font-size:15px;
+	font-weight:900;
+}
+table{
+	width:100%;
+	text-align:left;
+}
+th{
+	color:white;
+	background-color:#333;
+	padding: 5px 5px;
+}
+.table-sum{
+	background-color:#ccc;
+	color:#000;
+	font-weight:700;
+}
+form{
+	line-height:40px;
+}
+.form-left{
+	float:left;
+	width:400px;
+	height:400px;
+	text-align:right;
+	margin-right: 20px;
+}
+.form-right{
+
+}
+.confirm-bottom{
+    width: 1100px;
+    height: 40px;
+    background-color: #0099FF;
+    color: #fff;
+    border-radius: 12px;
+}
+.confirm-bottom:hover
+{
+	background-color: #00CCFF;
+}
+footer{
+	background-color: #000;
+	text-align: center;
+	color: white;
+	font-size: 14px;
+	line-height: 64px;;
+}
