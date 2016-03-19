@@ -1,0 +1,33 @@
+body{
+	position:relative;
+	background-color:#f5f5f5;
+}
+.rectangle{
+	width:400px;
+	height:200px;
+	background:#ccc;
+	margin:auto;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin: -100px 0 0 -200px;
+	overflow: hidden;
+}
+.up{
+	width:100px;
+	height:100px;
+	background-color: #000;
+	border-radius: 50px;
+	position: absolute;
+	top:-50px;
+	left: -50px;
+}
+.down{
+	width:100px;
+	height:100px;
+	background-color: #000;
+	border-radius: 50px;
+	position: absolute;
+	bottom:-50px;
+	right: -50px;
+}
