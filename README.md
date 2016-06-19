@@ -8,4 +8,6 @@
 4. Task002 任务二：零基础HTML及CSS编码（一）  
 5. Task003 任务三：三栏式布局    访问 <a href="http://1.3tslight.sinaapp.com/task003.html">index.html</a> 可以直接查看效果
 6. Task004 任务四：定位和居中问题  访问 <a href="http://1.3tslight.sinaapp.com/task004.html">index.html</a> 可以直接查看效果
-7. Task005 任务五：零基础HTML及CSS编码（二）   访问 <a href="http://1.3tslight.sinaapp.com/task005.html">index.html</a> 可以直接查看效果
+7. Task005 任务五：零基础HTML及CSS编码（二）   访问 <a href="http://1.3tslight.sinaapp.com/task005.HTML">index.html</a> 可以直接查看效果
+8. Task006 任务六：通过HTML及CSS模拟报纸排版   访问 <a href="http://1.3tslight.sinaapp.com/task006.html">index.html</a> 可以直接查看效果
+9. Task007 任务七：实现常见的技术产品官网的页面架构及样式布局 访问 <a href="http://1.3tslight.sinaapp.com/task007.html">index.html</a> 可以直接查看效果
